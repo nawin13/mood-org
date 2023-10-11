@@ -1,0 +1,21 @@
+
+.faq{
+    font-size: 3.4vw;
+    color: #56ffae;
+    padding-top: 5vw;
+    padding-left: 5vw;
+}
+
+.select {
+    color: #fff;
+    font-size: 1.6vw;
+    font-weight: 700;
+    padding-left: 5vw;
+}
+
+.item {
+    margin-top: 0.6vw;
+    cursor: pointer;
+    color: #56ffae;
+    padding-left: 5vw;
+}
